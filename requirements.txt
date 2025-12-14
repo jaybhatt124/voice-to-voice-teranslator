@@ -1,0 +1,7 @@
+gradio
+assemblyai
+translate
+elevenlabs
+elevenlabs.client
+uuid
+pathlib
